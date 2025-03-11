@@ -6,4 +6,4 @@ labels:
   -
     includeSelectors: true
     pairs:
-      component: asgi
+      component: one

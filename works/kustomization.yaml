@@ -6,6 +6,7 @@ namespace: default
 
 resources:
 - ./deployment/
+- ./deployment2/
 
 labels:
 - includeSelectors: true

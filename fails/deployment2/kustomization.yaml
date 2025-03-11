@@ -6,5 +6,4 @@ labels:
   -
     includeSelectors: true
     pairs:
-      app: test-app
-      component: one
+      component: two
